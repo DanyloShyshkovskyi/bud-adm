@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/css/main.3040125b.chunk.css",
+    "main.js": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/main.8a4e0a16.chunk.js",
+    "main.js.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/main.8a4e0a16.chunk.js.map",
+    "runtime-main.js": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/runtime-main.1fa042fd.js",
+    "runtime-main.js.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/runtime-main.1fa042fd.js.map",
+    "static/css/2.150d169a.chunk.css": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/css/2.150d169a.chunk.css",
+    "static/js/2.119aa023.chunk.js": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/2.119aa023.chunk.js",
+    "static/js/2.119aa023.chunk.js.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/2.119aa023.chunk.js.map",
+    "static/js/3.50de6e42.chunk.js": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/3.50de6e42.chunk.js",
+    "static/js/3.50de6e42.chunk.js.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/3.50de6e42.chunk.js.map",
+    "index.html": "/http//DanyloShyshkovskyi.github.io/bud-adm/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.3040125b.chunk.css.map": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/css/main.3040125b.chunk.css.map",
+    "static/js/2.119aa023.chunk.js.LICENSE.txt": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/js/2.119aa023.chunk.js.LICENSE.txt",
+    "static/media/facebook.dd5ac64f.svg": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/media/facebook.dd5ac64f.svg",
+    "static/media/linkedin-logo.9beafa41.svg": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/media/linkedin-logo.9beafa41.svg",
+    "static/media/rss-feed-rss-svgrepo-com.d260034f.svg": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/media/rss-feed-rss-svgrepo-com.d260034f.svg",
+    "static/media/twitter-sign.b682316d.svg": "/http//DanyloShyshkovskyi.github.io/bud-adm/static/media/twitter-sign.b682316d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa042fd.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.119aa023.chunk.js",
+    "static/css/main.3040125b.chunk.css",
+    "static/js/main.8a4e0a16.chunk.js"
+  ]
+}
